@@ -1,0 +1,7 @@
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.exe.config
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.exe
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.pdb
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.exe
+C:\Users\Deno\Documents\prework\deliverable_one\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.pdb
